@@ -1,2 +1,2 @@
 # wpfthemes
-wpfthemes, Classical implementation, All for study.
+wpf themes, Classical implementation, All for study.
